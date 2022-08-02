@@ -7211,7 +7211,6 @@ DOMAIN-SUFFIX,vid.applovin.com
 DOMAIN-SUFFIX,video.cooguo.com
 DOMAIN-SUFFIX,video.ureport.push.qq.com
 DOMAIN-SUFFIX,video.wap.mpush.qq.com
-DOMAIN-SUFFIX,video-ad-stats.googlesyndication.com
 DOMAIN-SUFFIX,videondun.com
 DOMAIN-SUFFIX,videopush.baidu.com
 DOMAIN-SUFFIX,viglink.com
@@ -8125,8 +8124,6 @@ DOMAIN-SUFFIX,adshows.21cn.com
 DOMAIN-SUFFIX,atrace.chelaile.net.cn
 DOMAIN-SUFFIX,logs.chelaile.net.cn
 DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,da.mgtv.com
 DOMAIN-SUFFIX,da.hunantv.com
@@ -8363,7 +8360,6 @@ DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,4paradigm.com
 DOMAIN-SUFFIX,catch.gift
 DOMAIN-SUFFIX,pubnative.net
-DOMAIN-SUFFIX,www.googleadservices.com
 DOMAIN-SUFFIX,fusion.qq.com
 DOMAIN-SUFFIX,wup.imtt.qq.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
