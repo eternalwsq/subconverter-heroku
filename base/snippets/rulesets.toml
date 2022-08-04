@@ -10,12 +10,14 @@ ruleset = "rules/MSServices.list"
 group = "🎯 全球直连"
 ruleset = "rules/DivineEngine/Surge/Ruleset/Unbreak.list"
 
-#[[rulesets]]
+[[rulesets]]
 #group = "🛑 全球拦截"
-#ruleset = "rules/NobyDa/Surge/AdRule.list"
+group = "🔰 节点选择"
+ruleset = "rules/NobyDa/Surge/AdRule.list"
 
 [[rulesets]]
-group = "🛑 全球拦截"
+#group = "🛑 全球拦截"
+group = "🔰 节点选择"
 ruleset = "rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list"
 
 [[rulesets]]
